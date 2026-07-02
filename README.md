@@ -63,32 +63,6 @@ I aim to continually expand this repository with increasingly complex projects a
 
 ---
 
-# Repository Structure
-
-```
-Mechanical-Design-Portfolio/
-│
-├── README.md
-├── images/
-│   └── banner.png
-│
-├── Projects/
-│   ├── Carabiner/
-│   ├── Chess_Pawn/
-│   ├── Flanged_Shaft_Mount/
-│   ├── Hinged_Lid/
-│   ├── Kettlebell/
-│   ├── Nameplate/
-│   ├── Symmetric_Clamping_Block/
-│   ├── Tube_Clamp/
-│   ├── Contoured_Container/
-│   └── Extruded_Bar_Mount/
-│
-└── Documents/
-```
-
----
-
 # Featured Projects
 
 ## 🧗 Carabiner
