@@ -50,16 +50,16 @@ I aim to continually expand this repository with increasingly complex projects a
 
 | Project | Description |
 |----------|-------------|
-| 🧗 **Carabiner** | Mechanical carabiner demonstrating complex profiles and smooth transitions. |
-| ♟️ **Chess Pawn** | Revolved component showcasing symmetry and profile modelling. |
-| ⚙️ **Flanged Shaft Mount** | Mechanical mounting component featuring bolt patterns and shaft clearance. |
-| 📦 **Hinged Lid** | Functional hinged enclosure demonstrating mechanical fit and design intent. |
-| 🏋️ **Kettlebell** | Revolved body with blended transitions and realistic proportions. |
-| 🏷️ **Nameplate** | Raised text and decorative modelling features. |
-| 🔩 **Symmetric Clamping Block** | Parametric clamping component using mirrored geometry. |
-| 🔧 **Tube Clamp** | Cylindrical clamping component designed around tube mounting. |
-| 🪣 **Contoured Container** | Hollow component demonstrating shell features and curved profiles. |
-| 🛠️ **Extruded Bar Mount** | Circular mounting base with evenly spaced structural supports. |
+| 🧗 [Carabiner](Projects/Carabiner/README.md) | Mechanical carabiner demonstrating complex profiles and smooth transitions. |
+| ♟️ [Chess Pawn](Projects/Chess_Pawn/README.md) | Revolved component showcasing symmetry and profile modelling. |
+| ⚙️ [Flanged Shaft Mount](Projects/Flanged_Shaft_Mount/README.md) | Mounting component featuring bolt patterns and shaft alignment. |
+| 📦 [Hinged Lid](Projects/Hinged_Lid/README.md) | Functional hinged enclosure demonstrating mechanical fit. |
+| 🏋️ [Kettlebell](Projects/Kettlebell/README.md) | Revolved mass-based design with smooth curvature. |
+| 🏷️ [Nameplate](Projects/Nameplate/README.md) | Raised text modelling and decorative CAD features. |
+| 🔩 [Symmetric Clamping Block](Projects/Symmetric_Clamping_Block/README.md) | Parametric clamping component using mirrored geometry. |
+| 🔧 [Tube Clamp](Projects/Tube_Clamp/README.md) | Cylindrical clamp designed for secure fastening. |
+| 🪣 [Contoured Container](Projects/Contoured_Container/README.md) | Hollow shell-based container with curved surfaces. |
+| 🛠️ [Extruded Bar Mount](Projects/Extruded_Bar_Mount/README.md) | Circular base with evenly spaced structural supports. |
 
 ---
 
