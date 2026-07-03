@@ -59,7 +59,6 @@ I aim to continually expand this repository with increasingly complex projects a
 | 🔩 [Symmetric Clamping Block](Projects/Symmetric_Clamping_Block/README.md) | Parametric clamping component using mirrored geometry. |
 | 🔧 [Tube Clamp](Projects/Tube_Clamp/README.md) | Cylindrical clamp designed for secure fastening. |
 | 🪣 [Contoured Container](Projects/Contoured_Container/README.md) | Hollow shell-based container with curved surfaces. |
-| 🛠️ [Extruded Bar Mount](Projects/Extruded_Bar_Mount/README.md) | Circular base with evenly spaced structural supports. |
 
 ---
 
@@ -161,17 +160,6 @@ I aim to continually expand this repository with increasingly complex projects a
 - Draft geometry
 - Contoured sketches
 - Fillets
-
----
-
-## 🛠️ Extruded Bar Mount
-
-**Skills Used**
-
-- Boss Extrudes
-- Circular Pattern
-- Sketch constraints
-- Symmetric modelling
 
 ---
 
