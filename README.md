@@ -50,13 +50,13 @@ I aim to continually expand this repository with increasingly complex projects a
 
 | Project | Description |
 |----------|-------------|
-| 🧗 [Carabiner](Projects/Carabiner) | Mechanical carabiner demonstrating complex profiles and smooth transitions. |
+| 🧗 [Carabiner](Projects/Carabiner) | Carabiner demonstrating complex profiles and smooth transitions. |
 | ♟️ [Chess Pawn](Projects/Chess_Pawn) | Revolved component showcasing symmetry and profile modelling. |
-| ⚙️ [Flanged Shaft Mount](Projects/Flanged_Shaft_Mount) | Mounting component featuring bolt patterns and shaft alignment. |
-| 📦 [Hinged Lid](Projects/Hinged_Lid) | Functional hinged enclosure demonstrating mechanical fit. |
-| 🏋️ [Kettlebell](Projects/Kettlebell) | Revolved mass-based design with smooth curvature. |
-| 🏷️ [Nameplate](Projects/Nameplate) | Raised text modelling and decorative CAD features. |
-| 🔩 [Symmetric Clamping Block](Projects/Symmetric_Clamping_Block) | Parametric clamping component using mirrored geometry. |
+| ⚙️ [Flanged Shaft Mount](Projects/Flanged_Shaft_Mount) | Mounting component featuring bolt patterns and complex flanged geometry. |
+| 📦 [Hinged Lid](Projects/Hinged_Lid) | Hinged enclosure demonstrating mechanical fit. |
+| 🏋️ [Kettlebell](Projects/Kettlebell) | Revolved design with smooth curvature. |
+| 🏷️ [Nameplate](Projects/Nameplate) | Decorative CAD features with a recessed face. |
+| 🔩 [Symmetric Clamping Block](Projects/Symmetric_Clamping_Block) | Clamping component using mirrored geometry with counterbored fastner holes. |
 | 🔧 [Tube Clamp](Projects/Tube_Clamp) | Cylindrical clamp designed for secure fastening. |
 | 🪣 [Contoured Container](Projects/Contoured_Container) | Hollow shell-based container with curved surfaces. |
 
@@ -71,7 +71,8 @@ I aim to continually expand this repository with increasingly complex projects a
 - Complex sketch geometry
 - Boss Extrudes
 - Fillets
-- Design intent
+- Sweep Features
+- Mirror
 - Smooth transitions
 
 ---
@@ -82,8 +83,6 @@ I aim to continually expand this repository with increasingly complex projects a
 
 - Revolved Boss/Base
 - Symmetry
-- Sketch constraints
-- Feature refinement
 
 ---
 
@@ -91,10 +90,8 @@ I aim to continually expand this repository with increasingly complex projects a
 
 **Skills Used**
 
-- Hole Wizard
-- Circular Pattern
+- Extrude Cuts
 - Boss Extrudes
-- Engineering dimensioning
 
 ---
 
@@ -103,9 +100,11 @@ I aim to continually expand this repository with increasingly complex projects a
 **Skills Used**
 
 - Thin Features
-- Mechanical fit
-- Parametric dimensions
-- Functional geometry
+- Boss Extrudes
+- Custom Planes
+- Fillets
+- Revolved Boss/Base
+- Extrude Cuts
 
 ---
 
@@ -116,6 +115,7 @@ I aim to continually expand this repository with increasingly complex projects a
 - Revolves
 - Fillets
 - Smooth transitions
+- Sweep Features
 
 ---
 
@@ -123,9 +123,8 @@ I aim to continually expand this repository with increasingly complex projects a
 
 **Skills Used**
 
-- Text features
-- Extrudes
-- Sketch layout
+- Boss Extrudes
+- Extrude Cuts
 - Cosmetic modelling
 
 ---
@@ -134,10 +133,12 @@ I aim to continually expand this repository with increasingly complex projects a
 
 **Skills Used**
 
-- Mirror Features
-- Hole placement
+- Circular Mirror Features
+- Hole Wizard _ Hole Callouts
 - Symmetric design
-- Manufacturing considerations
+- Extruded Bosses
+- Extruded Cuts
+- Custom Planes
 
 ---
 
@@ -145,10 +146,9 @@ I aim to continually expand this repository with increasingly complex projects a
 
 **Skills Used**
 
-- Circular geometry
-- Split design
-- Fastener locations
-- Parametric modelling
+- Shell Features
+- Fastener locations _ Hole Wizard
+- Extruded Bosses
 
 ---
 
@@ -156,10 +156,11 @@ I aim to continually expand this repository with increasingly complex projects a
 
 **Skills Used**
 
-- Shell Feature
+- Extruded Bosses
 - Draft geometry
-- Contoured sketches
+- Complex sketch geometry
 - Fillets
+- Shell Features
 
 ---
 
@@ -176,11 +177,9 @@ I aim to continually expand this repository with increasingly complex projects a
 This portfolio will continue to grow with projects including:
 
 - Assemblies
-- Motion Studies
 - Sheet Metal Design
 - Weldments
 - Design for Manufacture
-- GD&T
 - More complex mechanical mechanisms
 
 ---
